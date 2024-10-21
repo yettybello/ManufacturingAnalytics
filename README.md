@@ -24,3 +24,5 @@ import seaborn as sns
 
 ## Sample Visual
 [Sample Visual](https://drive.google.com/file/d/1SlcZbbP35LC2rxX5FDY7FVC02VA583VN/view?usp=sharing)
+
+(https://github.com/yettybello/ManufacturingAnalytics/blob/main/Buying.png)
