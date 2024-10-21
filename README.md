@@ -27,4 +27,4 @@ import seaborn as sns
 
 (https://github.com/yettybello/ManufacturingAnalytics/blob/main/Buying.png)
 
-(https://github.com/yettybello/ManufacturingAnalytics/blob/main/Buying.png?raw=true)
+!(https://github.com/yettybello/ManufacturingAnalytics/blob/main/Buying.png?raw=true)
